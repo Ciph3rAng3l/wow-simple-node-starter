@@ -75,7 +75,7 @@ https://devcenter.heroku.com/articles/deploying-nodejs#deploy-your-application-t
 - How well-defined is the problem? How well did they address the prompt?
 
 # Job Openings
-Check out our job openings! Feel free to ask any of the @WalmartLabs volunteers questions about what it's like to work at Walmart. Submit resumes here: https://goo.gl/forms/Kuc7kkqW0K3q38zq2
+Check out our job openings! Feel free to ask any of the @WalmartLabs volunteers questions about what it's like to work at Walmart. Submit resumes here: https://tinyurl.com/wwithackresume 
 - [**Sr. Backend Software Engineer**](https://careers.walmart.com/us/jobs/816082BR-senior-backend-software-engineer-carlsbad-ca)
 - [**Staff Backend Software Engineer**](https://careers.walmart.com/us/jobs/816029BR-staff-software-engineer-be-engineer-carlsbad-ca)
 - [**Staff Frontend Tools Engineer**](https://careers.walmart.com/us/jobs/816064BR-staff-fe-tools-engineer-san-bruno-ca)
@@ -83,7 +83,7 @@ Check out our job openings! Feel free to ask any of the @WalmartLabs volunteers 
 - [**Principal Technical Project Manager**](https://careers.walmart.com/us/jobs/867179BR-principal-technical-project-manager-sunnyvale-ca)
 
 # Feedback Form
-Let us know how you liked the hackathon and sign up to hear about our future events!: https://goo.gl/forms/v5qE90J2ZwHr0mWh2
+Let us know how you liked the hackathon and sign up to hear about our future events!: https://tinyurl.com/wwithackfeedback
 
 # About
 This starter was inspired by the [Node.js Material Starter Template](https://github.com/primaryobjects/Node.js-Material-Starter-Template), but updated for Heroku deployment, Materialize + Express routes.
