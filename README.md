@@ -58,6 +58,11 @@ https://devcenter.heroku.com/articles/deploying-nodejs#deploy-your-application-t
 4. Grab the link of your app and submit your app here: https://goo.gl/forms/APIvHIbkVN5ehcOi1
 5. Congratulations! You're done!
 
+# Themes
+- *Every Day Low Prices:* Walmart's motto for the longest time - from the days of Sam Walton to today's world of eCommerce - is "Every Day Low Prices." Walmart aims to feature a great selection of high quality merchandise for affordable prices. Build an application that aims to help users save money in their day to day lives to improve their overall quality of life. This could be anything from helping people budget or presenting data to help users make more informed choices.
+- *Walmart in eCommerce:* Walmart.com was founded in January 2000 as a subsidary of Wal-mart Stores Inc. One of the driving forces behind Walmart.com is us - @WalmartLabs. At the end of the day, Walmart serves as a retailer to the customers whether through stores, online, or mobile devices. In order to serve the millions of customers with our 1,000,000 products available online, we need the technology to support it. Today, you have the opportunity to take a look behind the scenes and experiment with our technology, the Walmart API. Build something - anything at all with our Walmart API. Be creative!
+- *Power of Technology:* From modest beginnings in northwestern Arkansas in 1962, Walmart has grown to become a worldwide household name thanks to Sam Walton. Only in 2000 did Walmart move into the eCommerce world and continue growing as one of the largest retailers, in both the physical and digital world. Today, Walmart.com has 1,000,000 products available for their customers to show at their convenience whether it be online, in person, or even ordering online and picking up in stores! Build an application that renovates something old and brings a new modern spin to it to better assist people today.
+
 # Judging Criteria
 ### Innovation / Ambition
 - How unique is it? Is this something that has been done before?
