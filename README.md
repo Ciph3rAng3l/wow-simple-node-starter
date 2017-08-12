@@ -7,13 +7,18 @@ This document should contain all the information you need to get started. Feel f
 - SSID: MindTouch Guest Wireless
 - PWD: NinjaTunes#17
 
+# Team Sign-Up Sheet
+https://docs.google.com/spreadsheets/d/1i73jKZMgTCOOs5n42WReKtUO8xNzai2kcXx5fdcnoyY/edit?usp=sharing
+
 # Table of Contents
 - [Set-Up](#set-up)
 - [Usage](#usage)
 - [Coding](#coding)
 - [Final Submission](#final-submission)
+- [Themes](#themes)
 - [Judging Criteria](#judging-criteria)
 - [Job Openings](#job-openings)
+- [Feedback Form](#feedback-form)
 
 # Set-Up
 - [ ] Create a GitHub Account: https://github.com/
